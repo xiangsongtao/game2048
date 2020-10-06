@@ -2,7 +2,7 @@
 
 
 
-A small clone of [2048](https://github.com/gabrielecirulli/2048), but code with swift for iOS and macOS.
+A small clone of [2048](https://github.com/gabrielecirulli/2048), but code with swift for iOS and macOS 🎉.
 
 ### Screenshot
 
@@ -12,4 +12,5 @@ A small clone of [2048](https://github.com/gabrielecirulli/2048), but code with 
 
 ## License
 
-2048 is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
+**Game2048 ** is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
+
