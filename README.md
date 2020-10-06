@@ -12,5 +12,5 @@ A small clone of [2048](https://github.com/gabrielecirulli/2048), but code with 
 
 ## License
 
-**Game2048 ** is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
+**Game2048** is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
 
