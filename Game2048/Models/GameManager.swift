@@ -45,7 +45,7 @@ final class GameManager: ObservableObject {
 
     @Published var grid: Grid = Grid(size: Size);
     @Published var score: Int = 0;
-    @Published var bestScore: Int = 0; // TODO: HERE
+    @Published var bestScore: Int = 0;
     
     // 状态1: 无路可走, game over
     // 状态2: 达成2048分,
