@@ -92,7 +92,7 @@ iOSInjectionProject/
 # for macOS
 .DS_Store
 
-
+*.zip
 
 
 
